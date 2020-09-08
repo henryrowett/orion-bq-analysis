@@ -1,1 +1,0 @@
-{"raw_orion_secure":{"0":{"clustering_fields":null,"dataset_id":"raw_orion_secure","friendly_name":null,"full_table_id":"data-engineering-prod:raw_orion_secure.gsop_failed_refunds","partition_expiration":null,"project":"data-engineering-prod","table_id":"gsop_failed_refunds","time_partitioning":null,"view_use_legacy_sql":null}}}

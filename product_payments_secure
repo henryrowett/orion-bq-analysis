@@ -1,1 +1,0 @@
-{"product_payments_secure":{"0":{"clustering_fields":null,"dataset_id":"product_payments_secure","friendly_name":null,"full_table_id":"data-engineering-prod:product_payments_secure.direct_debit_payments","partition_expiration":null,"project":"data-engineering-prod","table_id":"direct_debit_payments","time_partitioning":null,"view_use_legacy_sql":false}}}

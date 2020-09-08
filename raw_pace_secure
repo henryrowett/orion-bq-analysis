@@ -1,1 +1,0 @@
-{"raw_pace_secure":{"0":{"clustering_fields":null,"dataset_id":"raw_pace_secure","friendly_name":null,"full_table_id":"data-engineering-prod:raw_pace_secure.pace_loss_refund","partition_expiration":null,"project":"data-engineering-prod","table_id":"pace_loss_refund","time_partitioning":null,"view_use_legacy_sql":false}}}
