@@ -1,0 +1,1 @@
+{"product_identity_secure":{"0":{"clustering_fields":null,"dataset_id":"product_identity_secure","friendly_name":null,"full_table_id":"data-engineering-prod:product_identity_secure.identity_user","partition_expiration":null,"project":"data-engineering-prod","table_id":"identity_user","time_partitioning":null,"view_use_legacy_sql":false}}}
