@@ -1,6 +1,7 @@
 # orion-bq-analysis
-Analysis on Orion bq data swamp
+Analysis on 'data-engineering-prod' data
 
-### Requirements
-- Google Cloud SDK: ```gcloud auth application-default login```
+### Colab
+https://colab.research.google.com/github/henryrowett/orion-bq-analysis/blob/master/orion_data_analysis.ipynb#scrollTo=1cIs3cI5PqnW
+Reads .ipynb from this repo
 
